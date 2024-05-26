@@ -54,8 +54,16 @@
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/tettette.mid.json"
     },
     {
+      "name": "サツキ - メズマライザー (Piano covered by Uaaaaak)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/mesmerizer.mid.json"
+    },
+    {
+      "name": "TAK × Zekk - MIRINAE (from Arcaea | Piano covered by Uaaaaak)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/MIRINAE.mid.json"
+    },
+    {
       "name": "ナイト・オブ・ナイツ",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%84.mid.json"
-    },
+    }
   ]
 }
