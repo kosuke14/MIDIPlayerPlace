@@ -1,0 +1,61 @@
+{
+  "name": "Default Repository",
+  "list": [
+    {
+      "name": "Dance 'Til You're Dead.mid",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Dance_Til_Youre_Dead.mid.json"
+    },
+    {
+      "name": "Field Of Hopes And Dreams.mid",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/FieldOfHopesAndDreams.mid.json"
+    },
+    {
+      "name": "Toby Fox - Megalovania (from Undertale)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Megalovania.mid.json"
+    },
+    {
+      "name": "Rick Astley - Never Gonna Give You Up",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/NeverGonnaGiveYouUpFull.mid.json"
+    },
+    {
+      "name": "モリモリあつし - PUPA (Piano covered by Uaaaaak)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/PUPA.mid.json"
+    },
+    {
+      "name": "千本桜 (Senbonzakura) / 黒うさP",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Senbonzakura.mid.json"
+    },
+    {
+      "name": "Mitsukiyo - Unwelcome School (from Blue Archive)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/UnwelcomeSchool.mid.json"
+    },
+    {
+      "name": "立秋 feat. ちょこ - 竹 (Take / Bamboo)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/bamboo_midi.mid.json"
+    },
+    {
+      "name": "xi - FREEDOM DiVE↓",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/freedom_dive_tonejs.json"
+    },
+    {
+      "name": "いよわ feat. 可不 - きゅうくらりん",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/kyu_kurarin.mid.json"
+    },
+    {
+      "name": "YOASOBI - 怪物",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/monster.mid.json"
+    },
+    {
+      "name": "YOASOBI - 夜に駆ける (まらしぃMIX)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/running_in_night_marasy_mix.mid.json"
+    },
+    {
+      "name": "てってってー",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/tettette.mid.json"
+    },
+    {
+      "name": "ナイト・オブ・ナイツ",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/%E3%83%8A%E3%82%A4%E3%83%88%E3%83%BB%E3%82%AA%E3%83%96%E3%83%BB%E3%83%8A%E3%82%A4%E3%83%84.mid.json"
+    },
+  ]
+}
