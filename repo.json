@@ -76,6 +76,14 @@
     {
       "name": "Team Grimoire vs Laur - Grievous Lady (from Arcaea | Piano covered by Uaaaaak)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Grievous Lady.mid.json"
+    },
+    {
+      "name": "xi - ANiMA (from Deemo | Piano covered by depth でぷす)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/ANiMA.mid.json"
+    },
+    {
+      "name": "umi.mid",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/umi.mid.json"
     }
   ]
 }
