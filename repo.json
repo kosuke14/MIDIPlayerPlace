@@ -84,6 +84,10 @@
     {
       "name": "umi.mid",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/umi.mid.json"
+    },
+    {
+      "name": "Camellia - Hello (BPM) 2024 (Piano covered by SkyLetOff",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Hello%20(bpm)%202024.mid.json"
     }
   ]
 }
