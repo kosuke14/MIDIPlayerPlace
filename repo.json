@@ -88,6 +88,10 @@
     {
       "name": "Camellia - Hello (BPM) 2024 (Piano covered by SkyLetOff)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Hello%20(bpm)%202024.mid.json"
+    },
+    {
+      "name": "Shibayan Records (©︎上海アリス幻樂団) - Tiny Little Adiantum",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/TinyLittleAdiantum.mid.json"
     }
   ]
 }
