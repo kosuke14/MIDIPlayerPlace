@@ -92,6 +92,10 @@
     {
       "name": "Shibayan Records (©︎上海アリス幻樂団) - Tiny Little Adiantum",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/TinyLittleAdiantum.mid.json"
+    },
+    {
+      "name": "Camellia - 生命性シンドローム (covered by Uaaaaak)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/生命性シンドロウム.mid.json"
     }
   ]
 }
