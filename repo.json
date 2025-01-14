@@ -96,6 +96,10 @@
     {
       "name": "Camellia - 生命性シンドロウム (covered by Uaaaaak)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/syndrome.mid.json"
+    },
+    {
+      "name": "Sheet Music Boss - Rush E",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/rush_e_real.mid.json"
     }
   ]
 }
