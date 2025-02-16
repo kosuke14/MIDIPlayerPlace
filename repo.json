@@ -104,6 +104,10 @@
     {
       "name": "Vittorio Monti - Czardas (Classic)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Czardas.mid.json"
+    },
+    {
+      "name": "Vittorio Monti - Czardas (Piano)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Czardas_Piano.json"
     }
   ]
 }
