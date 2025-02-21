@@ -108,6 +108,14 @@
     {
       "name": "Vittorio Monti - Czardas (Piano)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/Czardas_Piano.json"
+    },
+    {
+      "name": "IOSYS - チルノのパーフェクトさんすう教室 (MIDI by ShinkoNet)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/IOSYS%20-%20Cirno's%20Perfect%20Math%20Class%20(ShinkoNet).mid.json"
+    },
+    {
+      "name": "AMAZE - Red Zone ~ Scarlet Zone (MIDI by Unlnown)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/AMAZE%20-%20Red%20Zone%20%7E%20Scarlet%20Zone%20(Unlnown).mid.json"
     }
   ]
 }
