@@ -116,6 +116,10 @@
     {
       "name": "AMAZE - Red Zone ~ Scarlet Zone (MIDI by Unlnown)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/AMAZE%20-%20Red%20Zone%20%7E%20Scarlet%20Zone%20(Unlnown).mid.json"
+    },
+    {
+      "name": "Toby Fox - Megalo Strike Back (covered by depth でぷす)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Megalo%20Strike%20Back.mid.json"
     }
   ]
 }
