@@ -119,7 +119,8 @@
     },
     {
       "name": "Toby Fox - Megalo Strike Back (covered by depth でぷす)",
-      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Megalo%20Strike%20Back.mid.json"
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Megalo%20Strike%20Back.mid.json",
+      "sf": "Earthbound"
     }
   ]
 }
