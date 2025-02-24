@@ -120,14 +120,17 @@
     {
       "name": "Toby Fox - Megalo Strike Back (covered by depth でぷす)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Megalo%20Strike%20Back.mid.json",
-      "sf": "Earthbound",
-      "synthesia": true
+      "sf": "Earthbound"
     },
     {
       "name": "Toby Fox - Megalo Strike Back (Midi Mix Reworked by SuperFlashGrenade)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Toby%20Fox%20-%20Megalo%20Strike%20Back%20Rework.mid.json",
-      "sf": "Earthbound",
-      "synthesia": true
+      "sf": "Earthbound"
+    },
+    {
+      "name": "Toby Fox - MeGaLoVaNia (Earthbound Halloween Hack)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/EBHalloween-MeGaLoVaNia.mid.json",
+      "sf": "Earthbound"
     }
   ]
 }
