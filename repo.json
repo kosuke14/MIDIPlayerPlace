@@ -131,6 +131,10 @@
       "name": "Toby Fox - MeGaLoVaNia (Earthbound Halloween Hack)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/EBHalloween-MeGaLoVaNia.mid.json",
       "sf": "Earthbound"
+    },
+    {
+      "name": "安次嶺希和子 - 忘れじの言の葉 (from グリムノーツ / MIDI by AnimeMidi)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Grimms%20Note%20-%20Wasureji%20no%20Kotonoha.mid.json"
     }
   ]
 }
