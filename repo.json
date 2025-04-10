@@ -135,6 +135,10 @@
     {
       "name": "安次嶺希和子 - 忘れじの言の葉 (from グリムノーツ / MIDI by AnimeMidi)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Grimms%20Note%20-%20Wasureji%20no%20Kotonoha.mid.json"
+    },
+    {
+      "name": "中学生と小学生がネクロファンタジアの楽譜を真黒にしてみた",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/%E5%90%88%E4%BD%9C%2B9%2B%EF%BC%8B%EF%BC%8B.mid.json"
     }
   ]
 }
