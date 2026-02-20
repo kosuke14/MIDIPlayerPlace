@@ -1,7 +1,8 @@
 # MIDIPlayerPlace
 MIDI Player Place File for Roblox, and MIDI Examples.<br/>
 This is a MIDI Player in Roblox.<br/>
-Not a Piano Player.
+Not a Piano Player.<br/>
+[DEMO](https://www.roblox.com/games/74827779966579/MIDI-Player)
 
 ## Features
 - Originally implemented synthesizer
