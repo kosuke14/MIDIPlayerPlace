@@ -13,6 +13,7 @@ Not a Piano Player.<br/>
 
 ## Credits
 - MuseScore_General.sf2: [OSL](https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/)
+- [@tonejs/midi](https://github.com/Tonejs/Midi)
 
 ## To use your midi
 If your device has low memory: [Downloader Version](https://kosuke14.github.io/Midi)
