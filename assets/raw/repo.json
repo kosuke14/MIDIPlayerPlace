@@ -20,6 +20,14 @@
     {
       "name": "Rush E",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/raw/rush_e_real.mid"
+    },
+    {
+      "name": "YO-KAI Disco (midi by ばさべり)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/raw/yokai2.mid"
+    },
+    {
+      "name": "YO-KAI Disco Extended (midi by ばさべり)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/raw/yokai_ex.mid"
     }
   ]
 }
