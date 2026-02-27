@@ -143,6 +143,10 @@
     {
       "name": "Unwelcome School (ver.2).mid",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/Unwelcome%20School%20(ver.2).mid.json"
+    },
+    {
+      "name": "yokai2.mid (by ばさべり)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/yokai2.mid_minified.json"
     }
   ]
 }
