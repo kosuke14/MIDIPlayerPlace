@@ -28,6 +28,10 @@
     {
       "name": "YO-KAI Disco Extended (midi by ばさべり)",
       "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/main/assets/raw/yokai_ex.mid"
+    },
+    {
+      "name": "[BLACK MIDI] Unwelcome School REMIX (Han)",
+      "dataurl": "https://raw.githubusercontent.com/kosuke14/MIDIPlayerPlace/refs/heads/main/assets/raw/Unwelcome%20School%20Han%26Han%20Collab%20Final.mid"
     }
   ]
 }
